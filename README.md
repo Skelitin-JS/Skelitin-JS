@@ -1,3 +1,9 @@
 ## Hello, I am skelitin!
 
-<img src ="https://user-images.githubusercontent.com/99303252/171552256-1cf86b84-d95e-430d-b972-7ab6a9e43ac7.svg">
+I am a 13 year old student, who likes computers.
+
+I am currently learning javascript.
+
+I don't have many repositories yet, mainly school projects and some games I'm messing around with.
+
+(will add more later, too lazy right now :)
